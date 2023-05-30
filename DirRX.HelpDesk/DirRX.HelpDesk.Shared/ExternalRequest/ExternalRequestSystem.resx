@@ -58,28 +58,43 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Property_Name" xml:space="preserve">
-    <value>Имя</value>
-  </data>
-  <data name="Property_Number" xml:space="preserve">
-    <value>Номер обращения</value>
-  </data>
-  <data name="Property_Description" xml:space="preserve">
-    <value>Описание</value>
-  </data>
-  <data name="Property_CreatedDate" xml:space="preserve">
-    <value>Дата создания</value>
-  </data>
-  <data name="Property_Responsible" xml:space="preserve">
-    <value>Ответственный</value>
-  </data>
   <data name="DisplayName" xml:space="preserve">
-    <value>Обращение</value>
-  </data>
-  <data name="CollectionDisplayName" xml:space="preserve">
-    <value>Обращения</value>
+    <value>External Request</value>
   </data>
   <data name="AccusativeDisplayName" xml:space="preserve">
-    <value>Обращение</value>
+    <value>External Request</value>
+  </data>
+  <data name="CollectionDisplayName" xml:space="preserve">
+    <value>External Requests</value>
+  </data>
+  <data name="Property_Author" xml:space="preserve">
+    <value>Author</value>
+  </data>
+  <data name="Property_Result" xml:space="preserve">
+    <value>Result</value>
+  </data>
+  <data name="Resource_597e91a3c3ef49d09968838493d2ad31" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Control_597e91a3c3ef49d09968838493d2ad31_EmptyText" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Resource_8a25da60621a4af8a0c23c6a68af2ec2" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Resource_b5ed377975284fba8cba1ebb36c42ca4" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Control_b5ed377975284fba8cba1ebb36c42ca4_EmptyText" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Resource_465721ecbb634d72aff2ecbf7ebf69fc" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Resource_891b5e29c1014dce879a37bcf5b24f8d" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Control_891b5e29c1014dce879a37bcf5b24f8d_EmptyText" xml:space="preserve">
+    <value />
   </data>
 </root>
